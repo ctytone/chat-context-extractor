@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+
+# Obsidian vault config (if this folder lives inside a vault)
+.obsidian/
+*.base
+
+# Personal working notes and real extracted notes (may contain private context)
+private/
+notes/
+*.private.md
